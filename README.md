@@ -1,6 +1,4 @@
 # Machine Learning Specialization
--
-
 
 ## Learning Outcomes
 Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
