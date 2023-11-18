@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85e5143b38c560f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decision Trees and Tree ensembles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The ML dev process.md",
+                "file": "Decision Trees and Tree ensembles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The ML dev process.md",
+                "file": "Decision Trees and Tree ensembles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The ML dev process.md"
+                "file": "Decision Trees and Tree ensembles.md"
               }
             }
           }
@@ -171,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ee8c738d3250190",
+  "active": "85e5143b38c560f7",
   "lastOpenFiles": [
-    "TensorFlow implementation.md",
+    "Pasted image 20231115141123.png",
+    "Pasted image 20231115132218.png",
     "The ML dev process.md",
+    "Decision Trees and Tree ensembles.md",
+    "TensorFlow implementation.md",
     "Forward Propagation in a Single Layer.md",
     "Data in Tensor Flow.md",
     "Untitled",
