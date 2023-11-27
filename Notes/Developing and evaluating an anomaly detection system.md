@@ -1,0 +1,2 @@
+When choosing how to test the algorithm you may want to label some data and use that labelling as a way to split the data set into train, cross validation and test.
+![[Pasted image 20231126203618.png]]
