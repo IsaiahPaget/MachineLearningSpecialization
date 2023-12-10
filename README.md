@@ -1,5 +1,7 @@
 # Machine Learning Specialization
 
+BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+
 ## Learning Outcomes
 Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
 
